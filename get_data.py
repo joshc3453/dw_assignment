@@ -13,3 +13,5 @@ client.timeout = 60
 results = client.get(data_set, limit=200000)
 
 df = pd.DataFrame.from_records(results)
+
+df.to_csv('dataset.csv', index=False)
