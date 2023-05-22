@@ -1,6 +1,6 @@
-<div style="text-align: center;">
-  <img src="https://cdn.phenompeople.com/CareerConnectResources/DELAA003Y/social/1200x630-1638972215979.jpg" alt="Delaware North Logo" style="width:300px; height:150px; margin-left: auto; margin-right: auto;">
-</div>
+<p align="center">
+  <img src="https://cdn.phenompeople.com/CareerConnectResources/DELAA003Y/social/1200x630-1638972215979.jpg" alt="Delaware North Logo" style="width:300px; height:150px;">
+</p>
 
 # Delaware North Data and Analytics Recruiting Project
 
