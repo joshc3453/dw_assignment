@@ -1,3 +1,7 @@
+<img src="https://pbs.twimg.com/profile_images/529979018972372992/_4_z8Sht_400x400.jpeg" alt="Delaware North Logo" style="width:200px; height:200px; margin-left:20px; margin-right:200px;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/US_Department_of_Health_and_Human_Services_seal.svg/1200px-US_Department_of_Health_and_Human_Services_seal.svg.png" alt="US Department of Health and Human Services Logo" style="width:200px; height:200px; margin-right:20px;">
+
+
 # Delaware North Data and Analytics Recruiting Project
 
 This project is part of the Delaware North Data and Analytics Recruiting Project. The goal of this project is to analyze COVID-19 testing data in the United States and provide insights into various metrics related to testing and patient outcomes.
