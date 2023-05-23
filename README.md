@@ -33,9 +33,9 @@ The US Department of Health and Human Services provides federal-level collection
 
 - In a separate DataFrame, `df3_positive`, I filtered the data to only include positive cases and then did the same grouping and aggregation done in the previous step. This resulted in a DataFrame with a sum of total positive tests for each state.
 
-- Finally, I combined the DataFrames so that the resulting DataFrame had the columns `state_name`, `total_positive_tests`, and `total_cases`. I then simply divided the total positive tests by the total cases for each state to calculate the positivty rate.
+- Finally, I combined the DataFrames so that the resulting DataFrame had the columns `state_name`, `total_positive_tests`, and `total_cases`. I then simply divided the total positive tests by the total cases for each state to calculate the positivity rate.
 
-- Sorting by positivty rate in descending order results in the following output:
+- Sorting by positivity rate in descending order results in the following output:
 <p align="center">
   <img src="https://i.imgur.com/WNvKdhZ.png" alt="Delaware North Logo" style="width:478px; height:247px;">
 </p>
